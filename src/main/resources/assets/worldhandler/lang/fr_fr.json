@@ -75,7 +75,7 @@
 	"gui.worldhandler.tab.blocks.sign_editor": "Pancartes",
 	"gui.worldhandler.tab.blocks.note_block_editor": "Notes",
 
-	"gui.worldhandler.tab.items.custom_item": "Objet personnalisé",
+	"gui.worldhandler.tab.items.custom_item": "Objet perso.",
 	"gui.worldhandler.tab.items.enchantment": "Enchantement",
 	"gui.worldhandler.tab.items.recipes": "Recettes",
 
@@ -98,10 +98,10 @@
 	"gui.worldhandler.title.world.gamerules": "Règles de jeu",
 
 	"gui.worldhandler.title.player.player": "Joueur",
-	"gui.worldhandler.title.player.experience": "Expérience",
+	"gui.worldhandler.title.player.experience": "Expérience ",
 	"gui.worldhandler.title.player.advancements": "Progrès",
 
-	"gui.worldhandler.title.butcher": "Butcher",
+	"gui.worldhandler.title.butcher": "Boucher",
 	"gui.worldhandler.title.change_world": "Changer le monde",
 	"gui.worldhandler.title.potions": "Potions",
 
@@ -120,7 +120,7 @@
 	"gui.worldhandler.change_world.multiplayer": "Serveur multijoueur",
 
 	"gui.worldhandler.butcher.radius": "Rayon",
-	"gui.worldhandler.butcher.configure": "Configurer,
+	"gui.worldhandler.butcher.configure": "Configurer",
 	"gui.worldhandler.butcher.slaughter": "Massacrer",
 
 	"gui.worldhandler.multiplayer.kick": "Expulser",
@@ -161,7 +161,7 @@
 	"gui.worldhandler.items": "Objets",
 	"gui.worldhandler.scoreboard": "Scores",
 	"gui.worldhandler.resourcepack": "Packs",
-	"gui.worldhandler.change_world": "Changer de monde",
+	"gui.worldhandler.change_world": "Changer monde",
 	"gui.worldhandler.world": "Monde",
 	"gui.worldhandler.blocks": "Blocs",
 	"gui.worldhandler.player": "Joueur",
@@ -176,19 +176,19 @@
 	"gui.worldhandler.items.custom_item.start.lore_2": "Description II",
 	"gui.worldhandler.items.custom_item.start.custom_name": "Nom personnalisé",
 
-	"gui.worldhandler.items.enchantment.level": "Niveau",
+	"gui.worldhandler.items.enchantment.level": "Niveau ",
 	"gui.worldhandler.items.enchantment.enchant": "Enchanter",
 
-	"gui.worldhandler.blocks.sign_editor.look_at_sign": "Regardez une pancarte et appuyez sur "%s"",
+	"gui.worldhandler.blocks.sign_editor.look_at_sign": "Regardez une pancarte et appuyez sur '%s'",
 	"gui.worldhandler.blocks.sign_editor.text_line_1": "Ligne de texte I",
 	"gui.worldhandler.blocks.sign_editor.text_line_2": "Ligne de texte II",
 	"gui.worldhandler.blocks.sign_editor.text_line_3": "Ligne de texte III",
 	"gui.worldhandler.blocks.sign_editor.text_line_4": "Ligne de texte IV",
 	"gui.worldhandler.blocks.sign_editor.commmand": "Commande",
 	"gui.worldhandler.blocks.sign_editor.done": "Terminé",
-	"gui.worldhandler.blocks.sign_editor.format_text_line": "Format de ligne de texte",
+	"gui.worldhandler.blocks.sign_editor.format_text_line": "Format de la ligne",
 
-	"gui.worldhandler.blocks.note_block_editor.look_at_note_block": "Regardez un bloc musical et appuyez sur "%s"",
+	"gui.worldhandler.blocks.note_block_editor.look_at_note_block": "Regardez un bloc musical et appuyez sur '%s'",
 	"gui.worldhandler.blocks.note_block_editor.c": "C",
 	"gui.worldhandler.blocks.note_block_editor.d": "D",
 	"gui.worldhandler.blocks.note_block_editor.e": "E",
@@ -197,8 +197,8 @@
 	"gui.worldhandler.blocks.note_block_editor.a": "A",
 	"gui.worldhandler.blocks.note_block_editor.b": "B",
 
-	"gui.worldhandler.gamerules.rule.commandBlockOutput": "Messages bloc de commande",
-	"gui.worldhandler.gamerules.rule.disableElytraMovementCheck": "Désactiver contrôle vitesse",
+	"gui.worldhandler.gamerules.rule.commandBlockOutput": "Messages bloc commande",
+	"gui.worldhandler.gamerules.rule.disableElytraMovementCheck": "Désactiver vérif. vitesse",
 	"gui.worldhandler.gamerules.rule.doDaylightCycle": "Cycle jour-nuit",
 	"gui.worldhandler.gamerules.rule.doEntityDrops": "Butin des entités",
 	"gui.worldhandler.gamerules.rule.doFireTick": "Propagation du feu",
@@ -241,8 +241,8 @@
 	"gui.worldhandler.world_info.world.seed": "Graine ",
 	"gui.worldhandler.world_info.world.copy_seed": "Copier la graine",
 
-	"gui.worldhandler.world_info.statistics.world_time": "Heure du monde ",
-	"gui.worldhandler.world_info.statistics.played": "Ouvert ",
+	"gui.worldhandler.world_info.statistics.world_time": "Heure monde ",
+	"gui.worldhandler.world_info.statistics.played": "Joué ",
 
 	"gui.worldhandler.edit_blocks.coordinates": "Coordonnées",
 	"gui.worldhandler.edit_blocks.fill": "Remplir",
@@ -295,7 +295,7 @@
 	"gui.worldhandler.scoreboard.objectives.stat.xp": "Expérience totale",
 
 	"gui.worldhandler.scoreboard.team.options.friendlyFire": "Tir allié",
-	"gui.worldhandler.scoreboard.team.options.seeFriendlyInvisibles": "Friendly Invisibles",
+	"gui.worldhandler.scoreboard.team.options.seeFriendlyInvisibles": "Invisibles alliés",
 	"gui.worldhandler.scoreboard.team.options.nametagVisibility": "Visibilité des noms",
 	"gui.worldhandler.scoreboard.team.options.deathMessageVisibility": "Messages de mort",
 	"gui.worldhandler.scoreboard.team.options.collisionRule": "Collision d'équipe",
@@ -303,24 +303,24 @@
 
 	"gui.worldhandler.scoreboard.team.suboption.always": "Toujours",
 	"gui.worldhandler.scoreboard.team.suboption.never": "Jamais",
-	"gui.worldhandler.scoreboard.team.suboption.hideForOtherTeams": "Cacher pour les autres",
-	"gui.worldhandler.scoreboard.team.suboption.hideForOwnTeam": "Cacher pour son équipe",
-	"gui.worldhandler.scoreboard.team.suboption.pushOwnTeam": "Collisions avec ses coéquipiers",
-	"gui.worldhandler.scoreboard.team.suboption.pushOtherTeams": "Collisions avec les autres équipes",
-	"gui.worldhandler.scoreboard.team.suboption.true": "Activer",
-	"gui.worldhandler.scoreboard.team.suboption.false": "Désactiver",
+	"gui.worldhandler.scoreboard.team.suboption.hideForOtherTeams": "Cacher pour autres",
+	"gui.worldhandler.scoreboard.team.suboption.hideForOwnTeam": "Cacher pour équipe",
+	"gui.worldhandler.scoreboard.team.suboption.pushOwnTeam": "Avec coéquipiers",
+	"gui.worldhandler.scoreboard.team.suboption.pushOtherTeams": "Avec autres équipes",
+	"gui.worldhandler.scoreboard.team.suboption.true": "Activé",
+	"gui.worldhandler.scoreboard.team.suboption.false": "Désactivé",
 
 	"gui.worldhandler.scoreboard.team.team": "Équipe",
 	"gui.worldhandler.scoreboard.team.create": "Créer",
 	"gui.worldhandler.scoreboard.team.join": "Rejoindre",
 	"gui.worldhandler.scoreboard.team.leave": "Quitter",
-	"gui.worldhandler.scoreboard.team.remove": "Retirer",
-	"gui.worldhandler.scoreboard.team.empty": "Vide",
+	"gui.worldhandler.scoreboard.team.remove": "Supprimer",
+	"gui.worldhandler.scoreboard.team.empty": "Vider",
 	"gui.worldhandler.scoreboard.team.options": "Options d'équipe",
 
-	"gui.worldhandler.scoreboard.players.points": "Points",
+	"gui.worldhandler.scoreboard.players.points": "Points ",
 	"gui.worldhandler.scoreboard.players.tag": "Tag",
-	"gui.worldhandler.scoreboard.players.trigger": "Trigger",
+	"gui.worldhandler.scoreboard.players.trigger": "Déclencheur",
 
 	"gui.worldhandler.entities.player.start": "Démarrer",
 	"gui.worldhandler.entities.player.score": "Score ",
@@ -333,7 +333,7 @@
 	"gui.worldhandler.entities.player.position.copy_position": "Copier la position",
 
 	"gui.worldhandler.entities.player.miscellaneous.set_spawn": "Point d'apparition",
-	"gui.worldhandler.entities.player.miscellaneous.set_global_spawn": "Point d'apparition du monde",
+	"gui.worldhandler.entities.player.miscellaneous.set_global_spawn": "Point d'apparition (monde)",
 	"gui.worldhandler.entities.player.miscellaneous.kill": "Tuer",
 	"gui.worldhandler.entities.player.miscellaneous.clear_inventory": "Vider l'inventaire",
 
@@ -344,7 +344,7 @@
 
 	"gui.worldhandler.entities.summon.start.mob_id": "ID de créature",
 	"gui.worldhandler.entities.summon.start.custom_name": "Nom personnalisé",
-	"gui.worldhandler.entities.summon.start.passenger_mob_id": "ID créature passagère",
+	"gui.worldhandler.entities.summon.start.passenger_mob_id": "ID créature passager",
 
 	"gui.worldhandler.potion.time.hours": "Heures ",
 	"gui.worldhandler.potion.time.minutes": "Minutes ",
@@ -364,13 +364,13 @@
 	"gui.worldhandler.shortcuts.tooltip.difficulty": "Difficulté : %s",
 	"gui.worldhandler.shortcuts.tooltip.difficulty.peaceful": "Paisible",
 	"gui.worldhandler.shortcuts.tooltip.difficulty.easy": "Facile",
-	"gui.worldhandler.shortcuts.tooltip.difficulty.normal": "Normale,
+	"gui.worldhandler.shortcuts.tooltip.difficulty.normal": "Normale",
 	"gui.worldhandler.shortcuts.tooltip.difficulty.hard": "Difficile",
 
 	"gui.worldhandler.shortcuts.tooltip.weather": "Météo : %s",
 	"gui.worldhandler.shortcuts.tooltip.weather.thunder": "Orage",
 	"gui.worldhandler.shortcuts.tooltip.weather.rainy": "Pluie",
-	"gui.worldhandler.shortcuts.tooltip.weather.clear": "Claire,
+	"gui.worldhandler.shortcuts.tooltip.weather.clear": "Claire",
 
 	"gui.worldhandler.shortcuts.tooltip.time": "Temps : %s",
 	"gui.worldhandler.shortcuts.tooltip.time.midnight": "Minuit (%s)",
